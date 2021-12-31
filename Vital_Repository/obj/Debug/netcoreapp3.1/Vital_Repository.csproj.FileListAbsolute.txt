@@ -1,0 +1,52 @@
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.deps.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.dev.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfoInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfo.cs
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.CoreCompileInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.genruntimeconfig.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.deps.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.genruntimeconfig.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.deps.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.genruntimeconfig.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.deps.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.runtimeconfig.dev.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.AssemblyReference.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfoInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.AssemblyInfo.cs
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.csproj.CoreCompileInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Repository\obj\Debug\netcoreapp3.1\Vital_Repository.genruntimeconfig.cache

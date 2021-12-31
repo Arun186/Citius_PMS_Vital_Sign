@@ -1,0 +1,323 @@
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.exe
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.deps.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.dev.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.AssemblyReference.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfoInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfo.cs
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CoreCompileInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.Manifest.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.xml
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMS_VitalSigns.styles.css
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.RazorTargetAssemblyInfo.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CopyComplete
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.genruntimeconfig.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.exe
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.deps.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.Manifest.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.xml
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMS_VitalSigns.styles.css
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.RazorTargetAssemblyInfo.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CopyComplete
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.genruntimeconfig.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.exe
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.deps.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.Manifest.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.xml
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMS_VitalSigns.styles.css
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.RazorTargetAssemblyInfo.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CopyComplete
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.genruntimeconfig.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.exe
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.deps.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.runtimeconfig.dev.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_BusinessLogic.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\bin\Debug\netcoreapp3.1\Vital_Repository.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.AssemblyReference.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfoInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.AssemblyInfo.cs
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CoreCompileInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cs
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.MvcApplicationPartsAssemblyInfo.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.Manifest.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\staticwebassets\PMS_VitalSigns.StaticWebAssets.xml
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMS_VitalSigns.styles.css
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.RazorTargetAssemblyInfo.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.csproj.CopyComplete
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\PMS_VitalSigns\obj\Debug\netcoreapp3.1\PMS_VitalSigns.genruntimeconfig.cache

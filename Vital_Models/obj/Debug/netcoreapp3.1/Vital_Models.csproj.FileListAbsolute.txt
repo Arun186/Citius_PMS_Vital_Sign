@@ -1,0 +1,52 @@
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.deps.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.dev.json
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfoInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfo.cs
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.CoreCompileInputs.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.genruntimeconfig.cache
+C:\Users\TanveerU\source\repos\PMS_VitalSigns\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.deps.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.genruntimeconfig.cache
+C:\Users\ChittibalaD\Desktop\PatientVisit3\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.deps.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.dev.json
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.AssemblyReference.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfoInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfo.cs
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.CoreCompileInputs.cache
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Users\ChittibalaD\Desktop\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.genruntimeconfig.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.deps.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.runtimeconfig.dev.json
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\bin\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.AssemblyReference.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfoInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.AssemblyInfo.cs
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.csproj.CoreCompileInputs.cache
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.dll
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.pdb
+C:\Arun Folder\API Projects Final\PMS_PatientVisit\Vital_Models\obj\Debug\netcoreapp3.1\Vital_Models.genruntimeconfig.cache
